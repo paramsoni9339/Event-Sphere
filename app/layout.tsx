@@ -11,12 +11,11 @@ import { AuthProvider } from "@/components/auth-provider"
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "EventHub India - Premium Event Management Platform",
+  title: "Event Sphere by ps",
   description: "Discover and book the best events across India",
   icons: {
     icon: "/favicon.ico",
   },
-    generator: 'v0.dev'
 }
 
 export default function RootLayout({
