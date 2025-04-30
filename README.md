@@ -5,6 +5,7 @@
   
   <p align="center">
     A modern event management platform built with Next.js 13+
+live at-https://event-sphere-fl50l5qsj-param-sonis-projects.vercel.app
   </p>
 
   <div>
