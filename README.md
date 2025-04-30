@@ -1,7 +1,7 @@
 # 🎪 EventSphere
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/paramsooni9339/Event-Sphere/main/public/placeholder-logo.svg" alt="EventSphere Logo" width="200"/>
+<!--   <img src="https://raw.githubusercontent.com/paramsoni9339/Event-Sphere/main/public/placeholder-logo.svg" alt="EventSphere Logo" width="200"/> -->
   
   <p align="center">
     A modern event management platform built with Next.js 13+
