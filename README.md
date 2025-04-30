@@ -1,10 +1,11 @@
 # 🎪 EventSphere
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/yourusername/EventSphere/main/public/placeholder-logo.svg" alt="EventSphere Logo" width="200"/>
+<!--   <img src="https://raw.githubusercontent.com/paramsoni9339/Event-Sphere/main/public/placeholder-logo.svg" alt="EventSphere Logo" width="200"/> -->
   
   <p align="center">
     A modern event management platform built with Next.js 13+
+live at-https://event-sphere-fl50l5qsj-param-sonis-projects.vercel.app
   </p>
 
   <div>
@@ -105,7 +106,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 💌 Contact
 
-For any queries or support, please reach out to us at support@eventsphere.com
+For any queries or support, please reach out to us at paramsoni.me@gmail.com
 
 ---
 
